@@ -1,0 +1,494 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A cry of the just against oppression</title>
+            <author>Goodaire, Thomas, d. 1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41424</idno>
+            <idno type="STC">Wing G1087</idno>
+            <idno type="STC">ESTC R28246</idno>
+            <idno type="EEBO-CITATION">10456224</idno>
+            <idno type="OCLC">ocm 10456224</idno>
+            <idno type="VID">45122</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45122)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1384:64)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A cry of the just against oppression</title>
+                  <author>Goodaire, Thomas, d. 1693.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Thomas Goodaire.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="testimony">
+            <pb facs="tcp:45122:1"/>
+            <pb facs="tcp:45122:1"/>
+            <head>A CRY
+of the juſt againſt
+OPPRESSION.</head>
+            <head type="sub">I the priſoner of the Lord who am now in outward bonds for con<g ref="char:EOLhyphen"/>ſcience
+ſake in the common goal at Oxford, and another was put
+in with me for the ſame thing; now it lieth upon me to acquaint
+and publiſh to the whole Nation the reaſon and cauſe of our im<g ref="char:EOLhyphen"/>priſonment,
+and why we ſuffer theſe hardſhips, and all this cru<g ref="char:EOLhyphen"/>el
+uſage that now we do, and I ſhall leave it to that pure princi<g ref="char:EOLhyphen"/>ple
+of God in every ſober minded man to judge whether we be
+not cruelly uſed, and unjuſtly dealt withal, contrary to the righ<g ref="char:EOLhyphen"/>teous
+law of God, which is, that every one ſhould do unto all men
+as they would be done unto themſelves.</head>
+            <p>IT hath pleaſed God of his infinite Love, Mercy and Goodneſſe to my
+poor ſoul, to viſit me in his tender love, when I was an enemie,
+and a ſtranger to him by wicked works; And now the Lord Jeſus
+hath appeared in me by his Light and Spirit, and hath ſhewed and
+diſcovered unto me the deceit which lodged in my heart, and the
+evil of my wayes which I lived in, and he hath called me to repen<g ref="char:EOLhyphen"/>tance
+and amendment of life, and I have owned the Call of God, and by
+believing, obeying and following the Light and Spirit of Chriſt, I have
+received Power from him who <hi>is the Light and Life of men,</hi> and by his light
+I am led out of darkneſſe, and out of my evil wayes, words and actions,
+which once I lived in before I knew the Pure appearance of the Lord Je<g ref="char:EOLhyphen"/>ſus
+by his Spirit in me; and by his own Power he hath brought me out of
+uncleanneſſe into holineſſe, and out of the broad way wherein I was
+walking, going headlong to deſtruction, into the ſtrait and narrow way
+that leads to Life and Peace which few finds<g ref="char:punc">▪</g>
+            </p>
+            <p>And by his own free grace, which hath appeared in me (which is his free
+gift) and hath appeared unto all men, which was (and is) the Saints
+Teacher) am I taught to deny my ſelf, and all ungodlineſſe and world<g ref="char:EOLhyphen"/>ly
+luſts, and to live ſoberly, juſtly and righteouſly in this preſent<g ref="char:punc">▪</g> evil
+world, and to do unto all men as I would be done by, and Chriſt by his
+own Spirit working in me, hath deſtroyed the works of the Devil which
+was in my heart, and hath taken away my ſins, and purified my heart, and
+reconciled me to himſelf, and I have true peace, joy and comfort in God,
+and enjoyes his pure love and preſence now in my outward ſuffering and
+cruel uſage which carries me above it, and makes it eaſie unto me; and this
+I do acknowledge in the fear of the Lord and to his praiſe, that it is the
+<pb n="2" facs="tcp:45122:2"/>
+onely work of God which he hath wrought in my heart, and in many more
+of his dear ſervants and chidren by his own ſpirit, for which I do in all
+humility return and give unto the Lord all honour and glory, praiſe, thanks
+and obedience for his everlaſting love, mercy and goodneſſe both to me
+and many others, and to him onely it doth belong now and for evermore.</p>
+            <p>And now the ſame light which ſhewed unto me the evil of my wayes,
+lets me ſee that the whole World now lyeth in wickedneſs from the high<g ref="char:EOLhyphen"/>eſt
+to the loweſt, and is out of the fear and Council of God, and in the
+broad way that leads to deſtruction, and is not yet come to true Repent<g ref="char:EOLhyphen"/>ance,
+but rather goes further from God, and groweth worſe and worſe, and
+more wicked and dark then they have been formerly, and the reaſon is be<g ref="char:EOLhyphen"/>cauſe
+they hare and deſpiſe the <hi>light within them</hi> which Chriſt hath <hi>enlight<g ref="char:EOLhyphen"/>ned
+them withal,</hi> and cals it a natural light, and ſo counts it a thing of nought;
+and this is the condemnation of all the wicked and ungodly, that light is
+come into the world, and ſhines in their hearts, and lets them ſee the evil
+of their wayes and doings, and ſmites and reproves them in their hearts
+and conſciences, but they do not believe in it, neither do they obey nor
+follow it, but lives in diſobedience and unbelief, and loves darkneſſe and
+their evil deeds better then the Light of Chriſt, which ſhews them their
+evil deeds, <hi>for every one that doth evil hates the light,</hi> and becauſe people <hi>re<g ref="char:EOLhyphen"/>ceives
+not the Truth in the love of it,</hi> but hates and rejects it, for theſe cauſes
+God hath given them over to ſtrong deluſions to believe lyes, <hi>that they all
+may be damned who believe not the Truth, but takes pleaſure in unrighteouſneſſe,</hi>
+2 Theſ. 2. 10, 11, 12.</p>
+            <p>Now the Lord of his infinite love hath redeemed me to himſelf out of
+the World, and the vain converſation of it, to ſerve him and do his will,
+(and not my own) and he hath required me to leave my native country,
+houſe, land and other things and Relations whatſoever, as to the outward,
+(who am a York-ſhire man) and to go abroad into his work and ſervice,
+where he ſhall lead and direct me by his Spirit, and in obedience to the
+Lord whom I love above all other things, I have left all, and am come in<g ref="char:EOLhyphen"/>to
+his work and ſervice; and he hath ſent me forth as he did many of his
+ſervants in the dayes of old, as he hath done many of his ſervants now
+at this day, <hi>to turn people from darkneſſe unto light, and from the power
+of Satan to the Power of God, that they may receive forgiveneſſe of their ſins, and
+an inheritance among them that are ſanctified by faith which is in Chriſt;</hi> and by
+the fooliſhneſs of preaching which is counted ſo by the wiſe and learned
+of the world) it hath pleaſed God to convert many thouſands, which the
+wiſe and learned by their preaching hath not done, but on the contrary,
+both they that are preachers and they that are their hearers ſins daily and
+hourly, and brings Scriptures to plead for ſin ſo long as they live upon the
+earth, but bleſſed be the Name of our God for ever, who hath turned ma<g ref="char:EOLhyphen"/>ny
+thouſands from darkneſſe to his light within, and from the power of Sa<g ref="char:EOLhyphen"/>tan
+unto his power, ſince he hath ſent forth many of his Servants (called
+<hi>Quakers</hi>) and by believing, obeying and following <hi>the light within,</hi> they have
+received power from God, and by the power of God are they led out of
+their ungodly wayes, and out of the vain converſation of the world, and
+from under the dominion of Satan, and are brought into the life and pow<g ref="char:EOLhyphen"/>er
+of Truth, and can witneſs their ſins forgiven by the Lord, and hath aſſu<g ref="char:EOLhyphen"/>rance
+<pb n="3" facs="tcp:45122:2"/>
+of an Inheritance which is incorruptible, and ſhall never fade a<g ref="char:EOLhyphen"/>way,
+which all the Children of darkneſſe, who hates <hi>the light of Chriſt
+within,</hi> and ſayes it is a naturall light, and do not believe, obey, nor fol<g ref="char:EOLhyphen"/>low
+it, ſhall never witneſſe their ſins forgiven by the Lord, neither can
+they have any aſſurance of their eternall Inheritance, ſo long as they
+continue in their ſins, and in diſobedience, hating and diſobeying the
+light of Chriſt <hi>within,</hi> and not believing in it; and in obedience to the
+Lord, and according to his direction I have paſſed through <hi>Warwick-ſhire,
+Worceſter-ſhire, Hereford ſhire, Gloceſter ſhire,</hi> and part of <hi>Northampton-ſhire,</hi>
+and ſo into <hi>Oxford-ſhire</hi> to viſit the people of God, and to confirm and
+build them up in the moſt holy faith, which all the world that lieth
+in wickedneſſe is enemies to at preſent, and to turn people from their
+evill wayes to the light of Chriſt which ſhines in their hearts, which
+whoſoever believes in it and obeys it, it will give them <hi>the light of the know<g ref="char:EOLhyphen"/>ledge
+of the glory of God in the face of Jeſus Chriſt.</hi>
+            </p>
+            <p>And in all my paſſing through theſe Counties before-mentioned, I was
+not ſtaid nor queſtioned before I came to <hi>Chadlinton</hi> in <hi>Oxford-ſhire,</hi> to
+one <hi>Benjamin Staples</hi> houſe, who is now priſoner with me, and the ſame
+night that I lodged at his houſe, the Conſtable of the Town with ſome
+others, came about the middle of the night to ſearch his houſe, having
+a Warrant from thoſe called Juſtices to apprehend all Rogues, Vaga<g ref="char:EOLhyphen"/>bonds,
+and ſturdy Beggars, and eſpecially one <hi>Ludlow;</hi> and the Conſtable
+finding me in Bed charged the man of the houſe to ſee me forth coming
+in the morning, which he did, and in the morning the Conſtable had
+me to <hi>Chippin-Norton</hi> before the Commiſſioners, and I came before one
+which is called Sir <hi>William Walter,</hi> and another which is called Sir <hi>Thomas
+Feniſton,</hi> and the man of the houſe went along with me, and they asked
+my name, and what buſineſſe I had in that Country; I told them my
+name, and what my buſineſſe was, that I was directed by the Lord to
+come into thoſe parts to turn people <hi>from darkneſſe to light, and from the
+power of Satan to God,</hi> but that anſwer did not ſatisfie them, and ſo they
+tendred the Oath of Allegiance both to me and the man of the houſe
+that was with me, I told them I could not ſwear for Conſcience ſake,
+and the other friend ſaid the ſame, and I ſhewed the reaſon why we
+could not, becauſe Chriſt and the Apoſtle hath forbid it, and ſaith <hi>ſwear
+not at all, but in all your Communication let your yea be yea, and your nay nay,
+for whatſoever is more is evil;</hi> and the Apoſtle ſaith, <hi>My Brethren above all
+things ſwear not at all, neither by heaven, nor by the earth, nor by any other oath,
+but let your yea be yea, and nay nay, leſt you fall into condemnation;</hi> and I told
+them further that I loved the King and his friends, and all mens perſons,
+and ſhould never plot nor make inſurrections, nor take up a carnal wea<g ref="char:EOLhyphen"/>pon
+againſt any man, nor againſt any government, and this I promiſed in
+the preſence of the Lord, and before them and many others; but nothing
+would ſatisfie them that could be ſpoken, except we would ſwear, which
+the aforeſaid <hi>William Walter</hi> preſſed often for us to do, or elſe we muſt go
+to priſon, and ſo we could not, neither can we ſwear for, or againſt any
+for Conſcience ſake, it being contrary to Chriſts command, but ſhall
+chuſe rather to ſuffer then diſobey Chriſt; and ſo they cauſed each of
+<pb n="4" facs="tcp:45122:3"/>
+us a <hi>Mittemus</hi> to be made, and ſent us forth-with to <hi>Oxford</hi> goal, where
+we now are, and this is the onely cauſe for which we are impriſoned, and
+ſo cruelly dealt withall by the Jaylor, his Wife, and Son, which is as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>Upon the 15. day of the 7. Month called by the world <hi>September,</hi> we
+was brought to the common goal at <hi>Oxford,</hi> and delivered up to <hi>Henry
+Tharpe</hi> which is now Jaylor, and preſently after we came in, he comman<g ref="char:EOLhyphen"/>ded
+his Son to put Irons upon me, which he did upon both my legs, as
+they do upon Thieves and Murderers, and one of the Irons was ſo ſtrait
+that it hurt my leg, and put me to much pain, and one friend deſired
+the Jaylor to let them be taken off, and wider put on. (if he would put
+on any) he anſwered, if I would give money for taking them off and
+putting on others, <hi>I</hi> might have it done, but I could not for Conſcience
+ſake give money for ſo doing, becauſe I have done nothing whereby I de<g ref="char:EOLhyphen"/>ſerve
+to have any lions put upon me, for it was done in wrath, and envy,
+and not for any juſt cauſe, and ſo I chuſe rather to ſuffer then ſatisfie
+that covetous mind; and ſhortly after the Irons was put on, they put me
+and the other friend into a ſtinking room, where was nothing neither to
+ſit down, nor lie upon, but the cold floor, and one friend asked the Jay<g ref="char:EOLhyphen"/>lor
+if he would ſuffer a little ſtraw to be brought into the room for us
+to lye down upon, but he would not ſuffer it, and except we would give
+four ſhillings eight pence every week for our lodging onely, we could
+have no other place, and ſo we choſe rather to ſuffer this hard ſhip, then
+to uphold ſuch great oppreſſion; and when they could not prevail with
+us to give them ſo much money as is before mentioned for our lodging,
+then the Jaylors wiſe was full of wrath, and envy, and puſhed me to and
+fro, and abuſed me both by words and actions; and there are ſome other
+friends which are priſoners now, and hath been above two years for Con<g ref="char:EOLhyphen"/>ſcience
+ſake, becauſe they cannot pay Tythes, which Chriſt came to end;
+and the Jaylors Son is ſo very wicked and cruel, that he ſtrikes them
+with his hands, and kicked one of them with his foot, and abuſeth both
+them and us very much with his evil tongue, calling us Dogs, and De<g ref="char:EOLhyphen"/>vils,
+and many more wicked words, which we bear and ſuffer patiently for
+Chriſts ſake, and we ſhall not render evill for evill, but take all things pa<g ref="char:EOLhyphen"/>tiently
+which is done unto us, knowing of a Truth, that they that are
+thus cruell againſt us without a cauſe, are led and guided by the ſame
+Spirit that murdered Chriſt Jeſus the Lord of Glory, becauſe he teſtified
+and declared againſt the world that their deeds was evill, therefore they
+hated him, and ſought falſe witneſſe againſt him, and mocked and abu<g ref="char:EOLhyphen"/>ſed
+him, and afterward put him to death, and the ſervants of the Lord
+are not greater then their Maſter, for if they called the Maſter of the
+houſe <hi>Belzebub,</hi> and many other wicked names, what will they not do to
+them of his houſhold, and all that follows Chriſt for their example, and
+comes to live a holy, godly, and harmleſſe life, muſt expect to ſuffer per<g ref="char:EOLhyphen"/>ſecution
+by this wicked and perverſe generation; for they that walked
+after the fleſh in all ages, ever hated and perſecuted them that walked
+after the Spirit, even ſo it is with this generation as it was formerly; but
+bleſſed be the Name of our God that gives us patience, and counts us
+<pb n="5" facs="tcp:45122:3"/>
+worthy to ſuffer for his Names ſake, for he hath not called us onely to
+believe, but alſo to ſuffer with him, and he that denyes to ſuffer with him
+and for his ſake, ſhall never reign with him.</p>
+            <p>Now hearken O ye Rulers of the earth, what the Spirit of Truth ſaith
+unto you through his Servant; (King, Parliament, and Counſel) if you
+do not cauſe theſe things to be amended, and ſtop perſecution, but tole<g ref="char:EOLhyphen"/>rate,
+uphold and encourage thoſe that are in authority under you to act
+thus cruelly againſt Gods people, as they have done againſt us for abiding
+in the Doctrine of Chriſt; or if you your ſelves who are Chief in Autho<g ref="char:EOLhyphen"/>rity
+make Lawes, or cauſe any unjuſt Lawes which is contrary to the
+righteous Law of God to be put in execution, on purpoſe whereby to
+perſecute and enſnare the people of God, becauſe we cannot for Con<g ref="char:EOLhyphen"/>ſcience
+ſake ſatisfie and obey your wills, contrary to the will and mind of
+Chriſt, then this I do declare unto you by the Spirit of the Lord, that the
+Lord is ariſen and will plead our cauſe, and he will appear on our be<g ref="char:EOLhyphen"/>half
+againſt you and overthrow you, as he hath done many that was in
+authority before you (which thought themſelves a wife and as ſtrong as
+you) becauſe they acted againſt God, his People and his Truth, and hated
+reproof and Inſtruction, and caſt the righteous Law of God behind their
+backs, and counted it a thing of nought, and made unjuſt Lawes in their
+own corrupt wills againſt the ſervants of Chriſt, contrary to the pure
+Law of God; and much cruelty they acted againſt Gods people, and per<g ref="char:EOLhyphen"/>ſiſted
+in it, and would take no counſell nor warning at the Servants of
+the Lord, which was ſent to warn and to tell them, if they did not repent
+and turn to God, from their ungodly wayes, and ceaſe perſecuting the
+people of God, the Lord would appear againſt them and overthrow them,
+and bring his Judgements upon them, but inſtead of repenting and turn<g ref="char:EOLhyphen"/>ing
+from their wickedneſſe to God, and taking Counſel at his Servants,
+they conſulted together how to enſnare us, and to deſtroy both our per<g ref="char:EOLhyphen"/>ſons
+and eſtates, and ſo they was all warned, and left without excuſe, but
+they would take no warning before the Lord appeared againſt them and
+overthrew them; and I do verily believe that the wickedneſſe which
+they acted againſt Gods people called <hi>Quakers,</hi> was the chief cauſe why
+God hath overthrown them, and brought miſery upon them.</p>
+            <p>And now you are brought into Power and Authority, and you have a
+day and a time put into your hands, and God will try you whether you
+will act for him and deny your ſelves, and ſeek his Honour and Glory on<g ref="char:EOLhyphen"/>ly,
+or whether you will ſet up your ſelves and your own intereſts, and ſeek
+your own honour and glory; Verily I ſay unto you, if you f<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llow the exam<g ref="char:EOLhyphen"/>ple
+of them that was in authority before you, in life and practice, ſetting
+up your ſelves and ſeeking your own honour and glory (as they did) and
+not the honour and glory of God only, but perſecute and uphold perſe<g ref="char:EOLhyphen"/>cution,
+and make a prey upon the people of God, (as they did) then
+will God be avenged on you, and bring his juſt judgements upon you,
+for God will <hi>avenge his own Elect, which call and cry to him day and night,</hi> and
+we ſhall not avenge our ſelves, nor ſeek revenge of any one whatſoe<g ref="char:EOLhyphen"/>ver
+they do unto us, but ſhall leave it to the Lord our God, for in him
+only is our truſt and confidence; And we do verily believe if we abide
+<pb n="6" facs="tcp:45122:4"/>
+faithfull to the Lord, he will never leave us, nor forſake us, but every
+authority that riſes up againſt us to perſecute us, or deſtroy us in our per<g ref="char:EOLhyphen"/>ſons
+and eſtates, God will overthrow them by his own power; for God
+hath reſpect unto his own people for they are near and dear unto him, and
+whatſoever is done unto them, he takes it as done unto himſelf; Therefore
+fear God and take counſel of him, and then you may expect to proſper, and
+the bleſsing of the Lord will be amongſt you, but if ye do not take coun<g ref="char:EOLhyphen"/>ſell
+of God, but at your own evil hearts, then you cannot have the bleſ<g ref="char:EOLhyphen"/>ſing
+of the Lord, neither can you proſper long; <hi>For wo unto them that take
+counſel but not of me ſaith the Lord, Iſa.</hi> 30. 1. Now if ye take counſel of
+God, you will never perſecute any man for his religion, nor for the exer<g ref="char:EOLhyphen"/>ciſe
+of a good Conſcience towards God, for God never counſelled any man
+to perſecute, neither was the ſaints and ſervants of God any perſecutors,
+but they themſelves was perſecuted by the wicked prieſts and rulers, for o<g ref="char:EOLhyphen"/>beying
+the Lord, (as we are now) &amp; perſecutors in all ages was enemies to
+Chriſt, and Chriſt tells them <hi>they were of their father the devil, John</hi> 8. 44.
+And ſo is all perſecutors now, and are no ſaints, nor ſervants of God, neither
+are they true Chriſtians, nor any true believers, but are enemies to Chriſt, let
+them profeſs what they wil; therefore take warning betime before it be too
+late, and ceaſe perſecuting Gods people, and put a ſtop to it, leaſt the Judge<g ref="char:EOLhyphen"/>ments
+of God come upon you at unawares; &amp; ſtrive not in your wills againſt
+the truth of God, For verily, I do declare unto you and unto all the World,
+(that ſhall read this) that this is the truth of the onely true God,
+which the people called <hi>Quakers</hi> holds forth in doctrine, life, and practiſe,
+and ſhall ſtand for ever, and you cannot overthrow it, for the Lord God
+is on our ſide, and he hath determined that this everlaſting truth (which
+is of himſelf) ſhall proſper, flouriſh, grow and increaſe, and God will add
+dayly more and more unto his Church ſuch as ſhall be ſaved, and this truth
+will ſpread throughout the World, and God will <hi>Overturn, Overturn, until
+he come to Rule and Reign whoſe right it is,</hi> even the Lord Jeſus Chriſt who is
+King of kings, and Lord of lords, who will rule the Nations with a rod of
+Iron. and all that will not have him to rule over them, neither will be
+ſubject to his Government, ſhall be confounded, and he will break them
+to pieces like a potters veſſel, for his kindom over all muſt be ſet up and
+exalted, and righteouſneſſe muſt be eſtabliſhed in the earth, and the king<g ref="char:EOLhyphen"/>dom
+of Antichriſt brought down, and the upholders of it, and all the
+builders of Babel which rejects and diſpiſeth the chief Corner-ſtone ſhall
+be confounded, and this certainly will God bring to paſs in his own time;
+therefore it is in vain for you, or any others to go about to ſet up and eſta<g ref="char:EOLhyphen"/>bliſh
+that which God will deſtroy, or to go about to pull down that which
+God hath determined to ſet up and uphold; now if you can hinder the
+Sun Moon and Stars, for ſhining in the Firmament, or the winde for blo<g ref="char:EOLhyphen"/>wing,
+or the Sea for ebbing and flowing, then may you hinder the work
+of the Lord, and his truth for ſpreading, and you may as well go about to
+do the one as the other. Now in the fear of the Lord, and in obedience
+to his will I have warned you, and you are left without excuſe, whether
+you will hear or forbear, I have diſcharged a good conſcience towards
+you, in acquainting of you what the Lord hath revealed unto me by his
+Spirit concerning you, if you perſiſt in wickedneſs, ſpending your pre<g ref="char:EOLhyphen"/>cious
+<pb n="7" facs="tcp:45122:4"/>
+time in Pride, Pleaſures and Vanity, ſatisfying the luſts of the
+fleſh, and take counſel of that wicked ſpirit which works in a my<g ref="char:EOLhyphen"/>ſtery
+in your hearts, (and in all the hearts of the children of diſo<g ref="char:EOLhyphen"/>bedience)
+and ſo make laws, or put any unjuſt lawes in executi<g ref="char:EOLhyphen"/>on
+whereby to deſtroy the Innocent, then will you be found guil<g ref="char:EOLhyphen"/>ty
+before the Lord of their blood, which will lie heavy upon you;
+And ſo by doing theſe things you will provoke the Lord to anger, and
+he will appear againſt you, and bring his fierce judgments upon you, and
+cut you off ſuddenly from off the face of the earth, and give you your
+portion with the wicked and ungodly, where there will be weeping and
+and wailing and gnaſhing of teeth; Therefore, as you tender the good
+of your own ſouls and the glory of God, let Gods people have their liber<g ref="char:EOLhyphen"/>tie
+to worſhip him in ſpirit, and in truth, and to exerciſe a good conſcience
+towards the Lord, and do not go about to limmit the holy One, but let the
+Spirit of truth have its free liberty to declare through the Lords Servants
+and Prophets, and do not perſecute them that do you no wrong, nor harm
+nei<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her in your perſons, nor eſtates, but deſires the good and welfare both
+of your ſouls and bodies, and the good of all men; <hi>But we cannot for con<g ref="char:EOLhyphen"/>ſcience
+ſake give flattering titles to man, leaſt for ſo doing our Maker ſoon take us
+away, Job</hi> 32. 21, 22, Neither can we reſpect mens perſons (for if we
+do) we deny the faith of Chriſt, and become tranſgreſſors of the righte<g ref="char:EOLhyphen"/>ous
+Law of God, <hi>Jam.</hi> 2. Neither can we ſatisfie the wills and mindes of
+men, contrary to the will and mind of God, and where God commands
+one thing, and a man another, we ſhall chuſe rather to obey God then
+man; now if you perſecute us for theſe things before mentioned, we ſhall
+ſuffer unjuſtly by you, and we ſhall have peace with the Lord in our ſuf<g ref="char:EOLhyphen"/>ferings,
+and we ſhall be juſtified in his ſight, when you will be condemn<g ref="char:EOLhyphen"/>ed
+by Gods witneſſe in your own conſciences for ſo acting againſt us;
+therefore repent and fear the Lord, and deny your ſelves, and your own
+honour and glory, and rule for God, and aim at his honour and glory on<g ref="char:EOLhyphen"/>ly,
+and turn to him with all your hearts, and ceaſe to do evil and learn to
+do well, ſeek judgment, relieve the oppreſſed and take off their heavie
+burdens, that God may have mercy upon your poor ſouls; and re<g ref="char:EOLhyphen"/>member
+your latter ends, for you muſt all give an account to the juſt God
+for the deeds you do in your life time, and every one muſt be rewarded
+according to your deeds, without reſpect of perſons, and for every idle
+word that men ſhall ſpeak, they ſhall give account in the day of Judgment;
+and ſee now that for the time to come ye walk more circumſpectly then
+you do (or have done) not as fools, but as wiſe men, guided by the
+wiſdom of God in all things, that ſo you may redeem your precious time
+which formerly you have ſpent in pride and vanity, and in ſatisfying the
+luſts of the fleſh, to the great diſhonour of God, <hi>Ephe.</hi> 5. 15, 16 17, 18. and
+now begin to bring forth the fruits of Holineſſe and Righteouſneſſe, and
+do juſtly, love mercy, and walk humbly before the Lord, that God Al<g ref="char:EOLhyphen"/>mighty
+may be honoured and glorified by you (and in you) and this the
+Lord requires of every one of you from the higheſt to the loweſt, and
+if you do not do theſe things, you do not anſwer the end for which you
+are created, and brought into the world.</p>
+            <p>
+               <pb n="8" facs="tcp:45122:5"/>
+And now while you have time prize it, for this is the day of your viſi<g ref="char:EOLhyphen"/>tation,
+and do not deſpiſe and reject the Counſel of the Lord, through his
+poor deſpiſed ſervant, (for if you do) and count it a thing of nought, and
+continue in your evill wayes, and perſecuting the Servants of the Lord,
+verily I declare unto you by the Spirit of Truth, that God will deſpiſe
+and reject both you and your prayers, and all the prayers of them that
+pray for you, and he will not hear them, and you cannot eſcape the
+wrath of the Almighty, ſo long as your hands are full of blood, and your
+hearts full of Iniquity, <hi>Iſaiah</hi> 1. 15, 16, 17.</p>
+            <closer>
+               <dateline>Written in the Common
+Goal at Oxford, the
+<date>20th. day of the 7th.
+Month, 1660.</date>
+               </dateline>
+               <signed>From one who deſires the good
+and welfare of all, and not the
+deſtruction of any in their ſins,
+but rather that they may come
+to repentance, and live; who
+am known by the name
+<hi>Thomas Goodaire.</hi>
+               </signed>
+            </closer>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi>
+Printed for <hi>Thomas Simmons</hi> at the ſigne of the <hi>Bull</hi> and
+<hi>Mouth</hi> near <hi>Alderſgate,</hi> 1660.</p>
+            <pb facs="tcp:45122:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
